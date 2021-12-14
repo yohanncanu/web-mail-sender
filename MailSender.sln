@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailLib", "MailLib\MailLib.csproj", "{71D66634-2E73-45A3-9995-47E6271C9894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMailSender", "WebMailSender\WebMailSender.csproj", "{0DD832FE-1007-4042-97C2-CD7840286C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D66634-2E73-45A3-9995-47E6271C9894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D66634-2E73-45A3-9995-47E6271C9894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D66634-2E73-45A3-9995-47E6271C9894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D66634-2E73-45A3-9995-47E6271C9894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD832FE-1007-4042-97C2-CD7840286C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD832FE-1007-4042-97C2-CD7840286C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD832FE-1007-4042-97C2-CD7840286C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD832FE-1007-4042-97C2-CD7840286C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637A58A6-AFE9-47C5-B063-D24BE0A02DB0}
+	EndGlobalSection
+EndGlobal
